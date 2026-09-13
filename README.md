@@ -9,6 +9,7 @@ Static business landing website for **Zainab & Tela Technical Services LLC**, Du
 - `contact.html` — phone, email, WhatsApp and location
 - `css/style.css` — responsive design
 - `js/script.js` — small JavaScript enhancement
+- `images/logo.png` — company logo used throughout the site
 
 ## Deploy with GitHub + Vercel
 1. Create a GitHub repository, for example `zainab-tela-technical-website`.
