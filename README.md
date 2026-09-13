@@ -1,23 +1,19 @@
-# Zainab & Tela Technical Services LLC Website
+# Zainab & Tela Technical Services Website
 
-Static business landing website for **Zainab & Tela Technical Services LLC**, Dubai, UAE.
+Ready-to-deploy static website for Zainab And Tela Technical Services CO. L.L.C S.O.C.
 
-## Files
-- `index.html` — home/landing page
-- `about.html` — company overview
-- `services.html` — services page
-- `contact.html` — phone, email, WhatsApp and location
-- `css/style.css` — responsive design
-- `js/script.js` — small JavaScript enhancement
-- `images/logo.png` — company logo used throughout the site
+## Structure
+- `index.html`
+- `about.html`
+- `services.html`
+- `contact.html`
+- `images/logo.png`
+- `css/style.css`
+- `js/script.js`
 
-## Deploy with GitHub + Vercel
-1. Create a GitHub repository, for example `zainab-tela-technical-website`.
-2. Upload all files while keeping the folder structure.
-3. Import the repository into Vercel.
-4. Deploy.
-5. Add `www.zainabtelatechnical.com` and `zainabtelatechnical.com` under Vercel Domains.
-6. Add the DNS records Vercel gives you at Namecheap.
+## GitHub + Vercel
+Upload these files to the root of the GitHub repository, then let Vercel deploy the repository.
 
-## Important
-The service descriptions are intentionally general because no detailed service list was provided. Replace them with the company's exact licensed/service activities before publishing.
+The logo is already included at `images/logo.png`; do not rename or move it.
+
+The public website does not include private licence numbers, registration/member numbers, personal owner/manager details, capital/share information, receipt/payment details, or other confidential licence information.
